@@ -5,7 +5,7 @@ I'm passionate about coding especially while I listen to music.
 
 And to me, programming is not a task, but a hobby! 
 
-- 🔭 I’m starting work on a personal and cool project!
-- 🌱 I’m starting learn Javascript, Web, React languages.
+- 🔭 I’m starting to work on a personal and cool project!
+- 🌱 I’m starting to learn Javascript, Web, React languages.
 - 📫 How to reach me: abbas.nawras@gmail.com
 
